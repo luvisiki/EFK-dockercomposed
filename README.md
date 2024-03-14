@@ -17,6 +17,8 @@
 
 # 版本:
 ES:7.13.1
+
 fluentd: 1.12-debian-1
+
 kibana: 7.13.1
 
