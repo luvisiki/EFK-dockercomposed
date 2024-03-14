@@ -2,13 +2,14 @@
 构建dockercompose来快捷部署EFK日志收集系统
 
 # 结构
+```text
 .
 ├── docker-compose.yml
 └── fluentd
     ├── conf
     │   └── fluent.conf
     └── Dockerfile
-
+```
 # 使用说明
 需提前安装docker,以及docker-compose部件
 
